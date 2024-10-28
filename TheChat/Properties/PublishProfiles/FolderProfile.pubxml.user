@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2024-10-03T15:13:38.8436323Z;True|2024-10-03T16:13:20.1154365+01:00;True|2024-10-02T16:38:44.3416094+01:00;True|2024-10-02T12:25:46.3388663+01:00;True|2024-09-30T16:16:13.3697316+01:00;True|2024-09-30T15:26:14.2265295+01:00;True|2024-09-29T11:47:01.7214433+01:00;True|2024-09-29T11:44:31.3704783+01:00;True|2024-09-29T09:55:07.2316588+01:00;True|2024-09-29T09:48:07.3837175+01:00;True|2024-09-28T10:32:34.6944654+01:00;True|2024-09-27T12:34:55.7308939+01:00;True|2024-09-27T12:31:45.7212167+01:00;True|2024-09-26T16:42:15.9262273+01:00;True|2024-09-26T12:26:25.7985147+01:00;True|2024-09-25T12:32:45.1834772+01:00;True|2024-09-25T10:22:40.1784043+01:00;True|2024-09-25T10:15:05.5790696+01:00;True|2024-09-22T09:49:32.5251490+01:00;True|2024-09-22T09:39:51.0699352+01:00;True|2024-09-20T10:56:55.0019915+01:00;True|2024-09-20T10:54:14.7230036+01:00;True|2024-09-20T10:25:43.8431443+01:00;True|2024-09-20T09:13:45.9201200+01:00;True|2024-09-19T16:35:26.0120865+01:00;True|2024-09-19T16:32:36.8987326+01:00;True|2024-09-18T17:21:02.1519717+01:00;True|2024-09-18T17:20:42.3932328+01:00;True|2024-09-18T14:36:24.3543603+01:00;True|2024-09-17T17:25:12.0683963+01:00;True|2024-09-17T12:21:34.8008116+01:00;True|2024-09-16T16:05:33.3228416+01:00;True|2024-09-16T14:18:23.3699267+01:00;True|2024-09-15T11:12:52.4286397+01:00;True|2024-09-15T10:32:43.1780752+01:00;True|2024-09-15T10:10:16.4368291+01:00;True|2024-09-15T10:09:37.2522860+01:00;True|2024-09-15T10:07:08.5891839+01:00;True|2024-09-15T10:06:48.8208294+01:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="TheChatDocuments/chatgpt.jpg">
+      <publishTime>09/04/2024 16:44:20</publishTime>
+    </File>
+    <File Include="TheChatDocuments/claude.png">
+      <publishTime>09/04/2024 16:17:04</publishTime>
+    </File>
+    <File Include="TheChatDocuments/gemini.jfif">
+      <publishTime>09/04/2024 16:15:52</publishTime>
+    </File>
+    <File Include="TheChatDocuments/pintube_logo.png">
+      <publishTime>06/11/2024 16:32:16</publishTime>
+    </File>
+    <File Include="TheChatDocuments/talk.png">
+      <publishTime>09/14/2023 13:36:49</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

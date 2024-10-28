@@ -1,0 +1,17 @@
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.DalLayer\bin\Debug\net6.0\TheChat.DalLayer.deps.json
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.DalLayer\bin\Debug\net6.0\TheChat.DalLayer.dll
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.DalLayer\bin\Debug\net6.0\TheChat.DalLayer.pdb
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.DalLayer\bin\Debug\net6.0\TheChat.ServerModel.dll
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.DalLayer\bin\Debug\net6.0\TheChat.Utility.dll
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.DalLayer\bin\Debug\net6.0\TheChat.ServerModel.pdb
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.DalLayer\bin\Debug\net6.0\TheChat.Utility.pdb
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.DalLayer\obj\Debug\net6.0\TheChat.DalLayer.csproj.AssemblyReference.cache
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.DalLayer\obj\Debug\net6.0\TheChat.DalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.DalLayer\obj\Debug\net6.0\TheChat.DalLayer.AssemblyInfoInputs.cache
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.DalLayer\obj\Debug\net6.0\TheChat.DalLayer.AssemblyInfo.cs
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.DalLayer\obj\Debug\net6.0\TheChat.DalLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.DalLayer\obj\Debug\net6.0\TheChat.DalLayer.csproj.CopyComplete
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.DalLayer\obj\Debug\net6.0\TheChat.DalLayer.dll
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.DalLayer\obj\Debug\net6.0\refint\TheChat.DalLayer.dll
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.DalLayer\obj\Debug\net6.0\TheChat.DalLayer.pdb
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.DalLayer\obj\Debug\net6.0\ref\TheChat.DalLayer.dll

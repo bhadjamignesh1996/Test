@@ -1,0 +1,15 @@
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.ServerModel\bin\Release\net6.0\TheChat.ServerModel.deps.json
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.ServerModel\bin\Release\net6.0\TheChat.ServerModel.dll
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.ServerModel\bin\Release\net6.0\TheChat.ServerModel.pdb
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.ServerModel\bin\Release\net6.0\TheChat.Utility.dll
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.ServerModel\bin\Release\net6.0\TheChat.Utility.pdb
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.ServerModel\obj\Release\net6.0\TheChat.ServerModel.csproj.AssemblyReference.cache
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.ServerModel\obj\Release\net6.0\TheChat.ServerModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.ServerModel\obj\Release\net6.0\TheChat.ServerModel.AssemblyInfoInputs.cache
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.ServerModel\obj\Release\net6.0\TheChat.ServerModel.AssemblyInfo.cs
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.ServerModel\obj\Release\net6.0\TheChat.ServerModel.csproj.CoreCompileInputs.cache
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.ServerModel\obj\Release\net6.0\TheChat.ServerModel.csproj.CopyComplete
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.ServerModel\obj\Release\net6.0\TheChat.ServerModel.dll
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.ServerModel\obj\Release\net6.0\refint\TheChat.ServerModel.dll
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.ServerModel\obj\Release\net6.0\TheChat.ServerModel.pdb
+C:\Users\Mignesh\Development_BackEnd\BackEnd\TheChat\TheChat.ServerModel\obj\Release\net6.0\ref\TheChat.ServerModel.dll
